@@ -27,8 +27,8 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/buddhhu/gold-price-analysis.git
-   cd gold-price-analysis
+   git clone https://github.com/buddhhu/streamlit-gold-analyzer.git
+   cd streamlit-gold-analyzer
    ```
 
 2. Install required packages:

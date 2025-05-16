@@ -1,0 +1,8 @@
+statsmodels
+pandas==2.2.3
+numpy==1.26.4
+plotly==6.0.0
+streamlit==1.42.2
+requests==2.31.0
+bs4==0.0.2
+statsmodels==0.14.4
